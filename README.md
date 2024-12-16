@@ -39,10 +39,8 @@ Create three topics in Kafka:
 > Each script execution should simulate only one sensor. To simulate multiple sensors, the script must be run multiple times.
 > The sensor ID can be a random constant for a single script run and may change with each new execution.
 
--
 - Temperature values: random between 25 and 45°C.
 - Humidity values: random between 15% and 85%.
--
 
 ### 3. Data Processing:
 
